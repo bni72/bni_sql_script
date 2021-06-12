@@ -1,0 +1,8 @@
+monitoring_user_session
+-----------------------
+
+TABLE = MONITORING_USER_SESSION
+
+PROCEDURE = PROC_MONITORING_USER_SESSION
+
+JOB = JOB_MONITORING_USER_SESSION
